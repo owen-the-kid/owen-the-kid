@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owen-the-kid
+- 👋 Hi, I’m Cryo
 - 👀 I’m interested in homebrew
 - 🌱 I do HTML, CSS, Javascript and PHP
 - 📫 How to reach me owenramaekers2006@gmail.com or upsidedownshaggy#2323 on discord
