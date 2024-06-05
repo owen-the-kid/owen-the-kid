@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Cryo
+- 👋 Hi, I’m Owen
 - 👀 I’m interested in homebrew
 - 🌱 I do HTML, CSS, Javascript and PHP
-- 📫 How to reach me owenramaekers2006@gmail.com or upsidedownshaggy#2323 on discord
 
 <a href="https://tag.rc24.xyz/user/780874545154359327"><img src="https://tag.rc24.xyz/780874545154359327/tag.png" alt="RiiTag" /></a>
 
