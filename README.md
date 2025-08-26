@@ -1,5 +1,5 @@
 <h1>Hello I'm Owen</h1>
-<p>I do HTML, CSS, Javascript and PHP<p>
+<p>I do HTML, CSS, Javascript, PHP and MySQL<p>
 <p>Enjoys Node.js</p>
 
 
